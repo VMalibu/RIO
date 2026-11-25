@@ -23,5 +23,6 @@ Data Confidence	Reliability of the underlying evidence
 
 
 Each score is designed to be explainable, with missing information distinguished from negative signals.
+
 Proof of concept
 RIO is a standalone HTML/CSS/JavaScript prototype. The demo uses entirely fictional sales data. Live CRM and meeting-tool integrations, as well as full AI-powered analysis, are part of the product vision and are not connected in this version.
